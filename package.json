@@ -1,5 +1,6 @@
 {
-    "name": "eka",
+    "name": "ekaa",
+    "author:"eka",
     "dependencies": {
         "express": "^4.14.0"
     },
